@@ -1,4 +1,4 @@
-# ATM 🏧 Simulator-USING-HTML-CSS-JAVASCRIPT
+# ATM 🏧 Simulator-USING-HTML-CSS-JAVASCRIPT:-
 we will create an ATM in JavaScript. ATM is a machine used to withdraw💸  money from your account, did you ever think of how an ATM Works, through this article we will get to know how. ATM 🏧 Simulator is a Simulator machine app that shows you your balance 💰 and lets you withdraw money 💰💰💰 and deposit money.💸
 
 We used Notepad++ as our code editor, and  JavaScript 💻, HTML ⌨️, CSS 💅 have been used to frame 🖼️  it. This ATM Simulator in JavaScript has options with buttons included, like withdraw 💸 , deposit 💵 , and details viewer, and it has a simulated camera. 📷, which is not a real one but is coded fun with JS. 
